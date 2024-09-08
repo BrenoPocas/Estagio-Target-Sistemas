@@ -22,9 +22,9 @@ Resposta: **91**
 - O maior valor de faturamento ocorrido em um dia do mês;
 - Número de dias no mês em que o valor de faturamento diário foi superior à média mensal.
 
-**IMPORTANTE:**
-(a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
-(b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
+**IMPORTANTE:**  
+A) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;  
+B) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;  
 
 [> RESULTADO QUESTAO 3 <](https://github.com/BrenoPocas/Estagio-Target-Sistemas/tree/main/questao3)
 
@@ -41,8 +41,8 @@ Escreva um programa na linguagem que desejar onde calcule o percentual de repres
 
 5) Escreva um programa que inverta os caracteres de um string.
 
-**IMPORTANTE:**
-(a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
-(b) Evite usar funções prontas, como, por exemplo, reverse;
+**IMPORTANTE:**  
+A) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;  
+B) Evite usar funções prontas, como, por exemplo, reverse;  
 
 [> RESULTADO QUESTAO 5 <](https://github.com/BrenoPocas/Estagio-Target-Sistemas/tree/main/questao5)
